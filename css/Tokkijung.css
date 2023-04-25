@@ -508,7 +508,7 @@ header .mb-btn {
     font-weight: 400;
     padding: 15px 20px 15px 20px;
     color: #694c38;
-    background-image: url(../images/매장찾기\ 화살표.png);
+    background-image: url(../images/findstore-arrow.png);
     background-repeat: no-repeat;
     background-position: 85% 50%;
 }
@@ -592,7 +592,7 @@ header .mb-btn {
     font-weight: 400;
     padding: 15px 20px 15px 20px;
     color: #694c38;
-    background: url(../images/매장찾기\ 화살표.png) no-repeat 80% 50%;
+    background: url(../images/findstore-arrow.png) no-repeat 80% 50%;
 }
 .content-2 .subSwiper > .swiper-wrapper .swiper-slide-2 .project-img-2 {
     width: 64%;
@@ -645,7 +645,7 @@ header .mb-btn {
     float: left;
     width: 50%;
     height: 100%;
-    background-image: url(../images/매장찾기.jpg);
+    background-image: url(../images/fintstore-img.jpg);
     background-size: cover;
     padding: 115px 0 0 215px;
 }
@@ -677,7 +677,7 @@ header .mb-btn {
     padding: 15px 20px;
     color: #694c38;
     background-color: #efb2a2;
-    background-image: url(../images/매장찾기\ 화살표.png);
+    background-image: url(../images/findstore-arrow.png);
     background-repeat: no-repeat;
     background-position: 90% 50%;
 }
@@ -689,7 +689,7 @@ header .mb-btn {
     float: left;
     width: 50%;
     height: 100%;
-    background-image: url(../images/창업문의.jpg);
+    background-image: url(../images/store.img.jpg);
     background-size: cover;
     padding: 115px 0 0 215px;
 }
@@ -720,7 +720,7 @@ header .mb-btn {
     padding: 15px 20px;
     color: #694c38;
     background-color: #efb2a2;
-    background-image: url(../images/매장찾기\ 화살표.png);
+    background-image: url(../images/findstore-arrow.png);
     background-repeat: no-repeat;
     background-position: 90% 50%;
 }
